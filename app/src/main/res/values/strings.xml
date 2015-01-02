@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Body Mass Index</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_enter_weight_height">Enter your weight and height</string>
+    <string name="label_height">height</string>
+    <string name="label_weight">weight</string>
+    <string name="unit_kilogram">kilograms</string>
+    <string name="unit_meter">meters</string>
+
+</resources>
