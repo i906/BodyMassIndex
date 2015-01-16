@@ -7,7 +7,16 @@
 
     <string name="label_enter_weight_height">Enter your weight and height</string>
     <string name="label_height">height</string>
+    <string name="label_normal">Your weight is normal</string>
+    <string name="label_obese_0">You are moderately obese</string>
+    <string name="label_obese_1">You are severely obese</string>
+    <string name="label_obese_2">You are very severely obese</string>
+    <string name="label_overweight">You are overweight</string>
+    <string name="label_underweight_0">You are underweight</string>
+    <string name="label_underweight_1">You are severely underweight</string>
+    <string name="label_underweight_2">You are very severely underweight</string>
     <string name="label_weight">weight</string>
+    <string name="unit_centimeter">centimeters</string>
     <string name="unit_kilogram">kilograms</string>
     <string name="unit_meter">meters</string>
 

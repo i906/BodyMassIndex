@@ -94,7 +94,7 @@
                 android:layout_centerHorizontal="true"
                 android:text="@string/unit_kilogram"
                 style="@style/TextAppearance.AppCompat.Small"
-                android:id="@+id/et_weight_unit" />
+                android:id="@+id/tv_weight_unit" />
 
         </RelativeLayout>
 
